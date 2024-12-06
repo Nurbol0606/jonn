@@ -1,0 +1,196 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Heedo, sans-serif;
+    text-decoration: none;
+    border: none;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 p {
+    color: #21243D;
+    ;
+
+}
+
+#header .container {
+    width: 90%;
+    margin-inline: auto;
+}
+
+.container {
+    width: 85%;
+    margin-inline: auto;
+}
+
+
+.header {
+    padding-block: 23px
+}
+
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+}
+
+.header a {
+    font-size: 19px;
+    color: #000;
+    font-weight: 600;
+}
+
+.main {
+    padding: 100px 0 60px 0;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-text {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.main-text h1 {
+    width: 420px;
+    font-size: 42px;
+}
+
+.main-text p {
+    width: 500px;
+    font-size: 16px;
+    line-height: 27px;
+}
+.img{
+    width: 300px;
+}
+.main-text button {
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    background: #FF6464;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#jonn {
+    background: rgba(237, 247, 250, 1);
+    padding-block: 40px;
+
+}
+
+.jonn {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+
+}
+
+.jonn .box {
+    background: rgba(255, 255, 255, 1);
+    width: 350px;
+    padding: 40px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.jonn-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.jonn-text p {
+    font-size: 30px;
+    color: rgba(33, 36, 61, 1);
+
+}
+
+.jonn-text a {
+    color: rgba(0, 168, 204, 1);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.box p {
+    width: 350px;
+}
+
+.main1 {
+    display: flex;
+    align-items: ; */
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.logo-text {
+    padding: 10px 20px;
+}
+
+.logo-text h1 {
+    font-weight: 700;
+    font-size: 30px;
+    color: rgba(33, 36, 61, 1);
+}
+
+.logo-title {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.logo-title b {
+    background: rgba(20, 40, 80, 1);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.logo-text p {
+    color: rgba(33, 36, 61, 1);
+    font-weight: 400;
+    font-size: 16px;
+    width: 550px;
+}
+
+.logo-title p {
+    color: rgba(134, 149, 164, 1);
+}
+
+.logo-header {
+    padding-top: 20px;
+}
+
+#footer{
+    padding: 40px;
+}
+
+.footer1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   gap: 30px;
+}
+.footer-img{
+    display: flex;
+    gap: 40px;
+}
